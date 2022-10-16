@@ -3,6 +3,6 @@
 ## Description
 I made a copy of the popular game "Flappy Bird".
 
-The project is made in python using the pygame library.
+The project is created in python using the pygame library.
 
 
