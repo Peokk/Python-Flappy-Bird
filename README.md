@@ -1,6 +1,8 @@
 ![Alt text](https://github.com/Peokk/Python-Flappy-Bird/blob/main/FlappyBird/images/Screen.png)
 
-## Opis
-Stworzyłem kopię popularnej gry flappy bird w pythonie.
+## Description
+I made a copy of the popular game "Flappy Bird".
 
-Jeśli chcesz zaimporować projekt nie zapomnij dodać biblioteki pygame oraz tego żeby wszystkie pliki znajdowały się w tym samym miejscu.
+The project is made in python using the pygame library.
+
+
